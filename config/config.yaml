@@ -1,0 +1,6 @@
+storage:
+  redis:
+    host: redis
+    port: 6379
+    ttl: 1209600
+    hsetname: links
